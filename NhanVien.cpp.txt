@@ -1,3 +1,0 @@
-<<<<<<< .mine
-NMCNPM      aaaaaaaaaaaaaaaaaaaaaaaaaaa=======
->>>>>>> .r6
